@@ -15,5 +15,6 @@ react-native run-ios
 ```
 
 ## First version of Login form 
+---
 
-
+![picture](images/Simulator Screen Shot - iPhone 6 - 2018-01-13 at 11.41.00.png)
