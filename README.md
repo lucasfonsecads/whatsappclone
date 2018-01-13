@@ -17,4 +17,4 @@ react-native run-ios
 ## First version of Login form 
 ---
 
-![picture](images/screenshot01LoginForm.png =100x20)
+<img src='./images/sreenshot01LoginForm.png' width="200" height="150">
